@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Labb3B</string>
+    <string name="no_devices_found">No devices found</string>
+    <string name="no_device">No device</string>
+    <string name="no_data">No data</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="notifications_enabled">Notifications enabled</string>
+    <string name="scan_movesense_devices">Scan movesense devices</string>
+</resources>
